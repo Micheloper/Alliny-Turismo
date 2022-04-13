@@ -14,7 +14,7 @@ $(document).ready(function () {
   })(jQuery);
 
   // input text for typing animation
-  $("#holder").writeText("TOMAMANDO A SERIO SUA DIVERSÃO.");
+  $("#holder").writeText("TOMANDO A SERIO SUA DIVERSÃO.");
 
   // initialize wow.js
   new WOW().init();
